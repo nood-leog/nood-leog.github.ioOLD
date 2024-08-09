@@ -4,11 +4,11 @@ main:
   - title: "Home"
     url: https://Nood.dev/
 
-  - title: "About Me"
+  - title: "About"
     url: https://Nood.dev/about/
     
   - title: "Projects"
-    url: https://Nood.dev/projects/
+    url: https://Nood.dev/ #projects/
 
   - title: "Blog"
     url: https://Nood.dev/blog/
@@ -17,7 +17,7 @@ main:
     url: https://Nood.dev/catpics/
 
   - title: "Minecraft"
-    url: https://Nood.dev/minecraft/
+    url: https://Nood.dev/ #minecraft/
   
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
