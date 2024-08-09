@@ -23,7 +23,7 @@
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
-    border-left: 5px double $border-color;
+    border-right: 5px double $border-color;
 
     &:hover {
       opacity: 1;
