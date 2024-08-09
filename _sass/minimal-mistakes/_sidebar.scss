@@ -9,6 +9,8 @@
 .sidebar {
 
   border-right: 5px double $border-color;
+  margin-right: 5px;
+  
   @include clearfix();
   // @include breakpoint(max-width $large) {
   //   /* fix z-index order of follow links */
