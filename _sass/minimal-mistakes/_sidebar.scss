@@ -9,7 +9,7 @@
 .sidebar {
 
   border-right: 5px double $border-color;
-  margin-right: 5px;
+  padding-right: 5px;
   
   @include clearfix();
   // @include breakpoint(max-width $large) {
