@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nood-Leog"
   avatar           : "/assets/images/cat300x300.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my site. Here you can find personal projects and maybe the occasional blog post."
+  bio              : "Welcome to my site. Here you can find personal projects and maybe some cat pictures."
   #location         : "Somewhere"
   #email            :
   links:
