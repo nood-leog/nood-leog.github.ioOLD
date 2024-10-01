@@ -21,7 +21,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2024-03-26T11:59:26-04:00
-toc: true
+toc: false
 ---
 
 
@@ -34,7 +34,8 @@ The quest for ever-increasing computing power has driven the evolution of proces
 One key limitation lies in the sequential processing nature of CPUs. CPUs handle instructions one at a time, even when dealing with tasks that could be broken down into smaller, steps that could be run in parallel. This step-by-step approach creates bottlenecks when tackling massive datasets and calculations associated with AI applications, especially LLM training (Fidan, 2018).
 Parallel processing utilizes multiple processing units, each known as a cores, working simultaneously on different parts of a task. Imagine a team working on a large project; with parallel processing, each team member focuses on a specific aspect concurrently to one-another, reducing the overall time it takes to produce a final product. This is precisely the advantage parallel processing offers for AI workloads. By breaking down computations into smaller, independent tasks and distributing them across multiple cores, parallel processing allows for significant performance gains in AI applications (Merritt, 2023).
 The next major leap in processor design for HPC came with the rise of Graphics Processing Units (GPUs). Unlike CPUs designed for sequential processing, GPUs were originally built for rendering graphics in video games and other visually demanding tasks that require pixels are drawn on a screen in a certain position quickly. Their underlying architecture, specifically their focus on parallel processing, makes them remarkably well-suited for the data-parallel nature of AI computations (Fidan, 2018). GPUs also come with a significantly higher number of cores compared to CPUs. These cores, while individually less powerful than CPU cores, can work concurrently on separate parts of a task. LLMs require access to vast amounts of data during training, which and frequently make use of the high bandwidth memory GPUs come equipped with; and thus enable them to rapidly transfer data between the memory and processing cores, significantly accelerating the overall process (Merritt, 2023).
- 
+
+<img src="/assets/images/junk/aihardware.png" alt="AI Hardware Graph">  
 Figure 1. Performance of Deep Learning AI models, comparing CPU vs. GPU performance (Fidan, 2023)
 
 Some GPU vendors, like NVIDIA, have incorporated specialized hardware features specifically designed to tackle AI workloads. A prime example is NVIDIA's Tensor Cores, which are dedicated hardware units optimized for performing matrix multiplications, a fundamental operation in deep learning algorithms used by LLMs (Merritt, 2023). Looking towards the future, processor design for HPC is likely to see continued advancements in parallel processing architectures, even higher-bandwidth memory solutions, and further specialization of hardware for AI workloads. The shift from traditional CPUs to GPUs, with their focus on parallel processing and specialized hardware, has been a major turning point in this evolution. As AI continues to advance, we can expect to see even more innovative processor designs emerge to meet the ever-growing demands of high-performance computing.
