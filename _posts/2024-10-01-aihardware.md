@@ -45,9 +45,17 @@ Large Language Models are incredibly memory intensive due to the large amount of
 In pursuit of a revolution in productivity both inside and out of the computing space, artificial intelligence has clearly staked itself as a technology that has many hurdles to be overcome. As with any new technology like AI, it takes time for the foundational technologies to get to the point where it is no longer restricting the development of the future technologies. At its current point, AI stands to be the largest driver for advancement and investment into high performance computing. This limitations of traditional CPUs for AI workloads and how the rise of GPUs, with their focus on parallel processing and specialized hardware, have been able to revolutionize the field so far. Massive number of cores, high-bandwidth memory, and specialized hardware like Tensor Cores make GPUs ideal for handling the complex computations required by LLMs, and will prove to be one of the foundational advancements for AI in the future. With this change, the complexity of these models continues to develop, and thus necessitates continuous advancements in processor design, with a focus on even more powerful parallel processing architectures, faster memory solutions, and further hardware specialization for AI tasks. Beyond advancements in hardware, the software ecosystem available to developers will also play a vital role in ensuring this technology is available in every field. As AI continues to evolve, the co-development of advanced processors, high-performance memory, and software will be paramount in meeting the demands of high-performance computing for the future of AI. 
 <h2>References</h2>
 A Deeper Look At VRAM On GeForce RTX 40 Series Graphics Cards. (n.d.). NVIDIA. https://www.nvidia.com/en-us/geforce/news/rtx-40-series-vram-video-memory-explained/
-MacLean, A. (n.d.). How AI Can Help Doctors As They Solve Complex Problems. Forbes. Retrieved April 26, 2024, from https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/?sh=598d2fdb7778
+MacLean, A. (n.d.). 
+--
+How AI Can Help Doctors As They Solve Complex Problems. Forbes. Retrieved April 26, 2024, from https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/?sh=598d2fdb7778
+--
 Merritt, R. (2023, December 4). Why GPUs Are Great for AI. NVIDIA Blog. https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai/
+--
 Salvaris, M. (n.d.). GPUs vs CPUs for deployment of deep learning models. Azure.microsoft.com. https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/
+--
 Stanford AI Index Report 2023 – Artificial Intelligence Index. (n.d.). Aiindex.stanford.edu. Retrieved April 26, 2024, from https://aiindex.stanford.edu/ai-index-report-2023/
+--
 The Evolution of HPC. (2016, August 24). InsideHPC. https://insidehpc.com/2016/08/the-evolution-of-hpc/
+--
 Types of VRAM Explained: HBM vs. GDDR5 vs. GDDR5X. (2017, February 9). https://blog.logicalincrements.com/2017/02/types-vram-explained-hbm-vs-gddr5-vs-gddr5x/
+--
