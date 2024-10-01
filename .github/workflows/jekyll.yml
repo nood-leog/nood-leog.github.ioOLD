@@ -61,7 +61,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
 
       - name: Add Ruby to PATH
-        run: echo "::add-path::$(ruby -e 'puts Gem.user_dir')/bin"
+        run: echo "GEM_PATH=$(ruby -e 'puts Gem.user_dir')/bin" >> $GITHUB_ENV
 
       - name: Setup Pages
         id: pages
