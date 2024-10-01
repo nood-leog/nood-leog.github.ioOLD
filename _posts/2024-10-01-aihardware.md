@@ -1,6 +1,6 @@
 ---
 permalink: /school/aihardware
-title: "aihardware"
+title: "AI Hardware and its evolution"
 excerpt: "Paper I wrote on the role of GPUs and the evolution of nessisary hardware for AI."
 categories:
   - CompSci
