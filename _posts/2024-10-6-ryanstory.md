@@ -28,13 +28,13 @@ toc: false
 <p>“Eureka!” he exclaimed, flush with excitement.</p>
 
 <p>Normal people would ride this high knowing that the kiss with luck had run its course. But for Ryan, winning just once wasn’t enough. No, he had tasted victory, and now he craved even more. Further case openings ensued, and thus his inventory grew skin by skin, showcasing every rarity and float under the sun-</p>
-<br>
+
 <p>But alas, there was always a small voice singing his name from the void.</p> 
-<br>
+
 <p>The dark underworld of Counter Strike gambling yearned for prey like Ryan.</p>  
-<br>
+
 <p>Places like CSGOBIG beckoned, and Ryan fell victim to its sweet lure.</p>
-<br>
+
 <p>The flashing lights of coinflips and casebattles, wagering his precious skins for the promise of even greater riches. 
 “I’m going pro,” he’d declare with a grin. “I’ll do this for a living.”
 Days turned into weeks as he made a few more wins here and there, opening more CS cases and padding his vault with treasures only valued by some. But as time drew on, even Ryan began to worry that all of his luck had dried up. He decided it was time to call it quits and perfect his masterpiece—a fully red-colored inventory. That’s when he remembered the name: CSMoney, the go-to spot for serious traders, and a 4.7 rating on Trustpilot. One last trade, he thought, to complete the crimson dream and finally win the respect of his peers.</p>
@@ -48,9 +48,9 @@ Moments later, his blood ran cold. The realization hit him like a flashbang: he�
 But even as the bottle emptied and the scam faded into the haze of a whiskey hangover, a new thought began to form. What if I just try one more time?</p>
 
 <img src="/assets/images/junk/ryansad.jpg" alt="Ryan Sad"> 
-<br>
+
 <p>Before he even realized it, Ryan’s fingers were back on his mouse, scrolling through more cases. His debit card, already tired from its previous escapades, sighed as he dumped another $200 into the steam marketplace. He clicked open case after case, eyes locked on the screen with that same familiar rush bubbling up inside him.</p>
-<br>
+
 <p>“Just one more big win,” he muttered to himself, “and I’ll get it all back.”</p>
 <br>
 <p>And thus, the cycle began anew.</p>
