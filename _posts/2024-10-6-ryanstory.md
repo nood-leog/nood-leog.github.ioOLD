@@ -22,7 +22,7 @@ layouts_gallery:
 last_modified_at: 2024-10-06T11:59:26-04:00
 toc: false
 ---
-
+<img src="/assets/images/junk/ryan.png" alt="Ryan Bald"> 
 Ryan had always been a Counter-Strike enthusiast, but recently, he had taken his passion to a whole new level. One fateful weekend, he decided to treat himself and dropped $300 on Counter-Strike cases and keys. Ryan (The Rhino) cracked open case after case, and just for a moment, Lady Luck smiled upon him; A sleek pair of Tigerstrike gloves, worth over $1300 hit his inventory.
 “Eureka!” he exclaimed, flush with excitement.
 Normal people would ride this high knowing that the kiss with luck had run its course. But for Ryan, winning just once wasn’t enough. No, he had tasted victory, and now he craved even more. Further case openings ensued, and thus his inventory grew skin by skin, showcasing every rarity and float under the sun-
