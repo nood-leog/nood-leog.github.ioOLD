@@ -40,7 +40,7 @@ Moments later, his blood ran cold. The realization hit him like a flashbang: he�
 He logged off, slammed his headset down, and reached for the only thing that could dull the sting of the loss: his trusty bottle of apple-flavored Jack Daniels. He poured himself a generous glass and stared into the void. The days blurred together as he wallowed in the bitter cocktail of regret and whiskey, logging off from the world as he nursed both his wounded pride and his liver.
 But even as the bottle emptied and the scam faded into the haze of a whiskey hangover, a new thought began to form. What if I just try one more time?
 
-<img src="/assets/images/junk/ryansad.png" alt="Ryan Sad"> 
+<img src="/assets/images/junk/ryansad.jpg" alt="Ryan Sad"> 
 
 Before he even realized it, Ryan’s fingers were back on his mouse, scrolling through more cases. His debit card, already tired from its previous escapades, sighed as he dumped another $200 into the steam marketplace. He clicked open case after case, eyes locked on the screen with that same familiar rush bubbling up inside him.
 “Just one more big win,” he muttered to himself, “and I’ll get it all back.”
