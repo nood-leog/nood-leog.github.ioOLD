@@ -13,8 +13,8 @@ main:
   - title: "Cats"
     url: https://Nood.dev/catpics/
 
-  - title: "Minecraft"
-    url: https://Nood.dev/ #minecraft/
+  - title: "Minecraft Server"
+    url: https://Nood.dev/minecraft/
   
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
