@@ -1,0 +1,33 @@
+
+
+
+name: nooddev
+description: "My personal CV website."
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # <-- ADD THIS BLOCK
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0    # <-- Make sure this line exists and is indented correctly
+  url_launcher: ^6.2.1
+  font_awesome_flutter: ^10.6.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1 # Usually included by default
+
+flutter:
+  uses-material-design: true
+  # Add assets folder if you plan to use local images (e.g., profile picture)
+  # assets:
+  #   - assets/images/
